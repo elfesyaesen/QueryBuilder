@@ -1,7 +1,3 @@
-Tabii, GitHub `README.md` dosyasına eklemek için örnek bir içerik hazırlayabilirim. Bu içerik, `QueryBuilder` sınıfının nasıl kullanılacağını ve örnek sorguları açıklar. İşte örnek bir `README.md` içeriği:
-
----
-
 # QueryBuilder
 
 `QueryBuilder`, PHP'de veritabanı sorgularını kolayca oluşturmak ve yönetmek için kullanılan bir sınıftır. Bu sınıf, `PDO` tabanlıdır ve temel CRUD işlemlerini, JOIN'leri, alt sorguları, transaction yönetimini ve daha fazlasını destekler.
